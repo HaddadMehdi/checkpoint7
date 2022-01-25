@@ -1,0 +1,12 @@
+name,score,tentatives,qualifier,Success
+Anastasia,12.5,1,oui,1
+Dima,9.0,3,non,0
+Katherine,16.5,2,oui,1
+James,,3,non,0
+Emily,9.0,2,non,0
+Michael,20.0,3,oui,1
+Matthieu,14.5,1,oui,1
+Laura,,1,non,0
+Kevin,8.0,2,non,0
+Jonas,19.0,1,oui,1
+Suresh,15.5,1,oui,1
